@@ -11,4 +11,14 @@ entries:
     urls:
     - https://github.com/DaryaKap/helm-charts-repo/releases/download/myfirstchart-0.2.0/myfirstchart-0.2.0.tgz
     version: 0.2.0
-generated: "2024-06-09T22:48:37.49247575Z"
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2024-06-09T22:55:23.036528258Z"
+    description: A Helm chart for Kubernetes
+    digest: fbbad1bfc60d2367e68b74deb50157f26cb2fc426f4fdd3f0a28a962916d7b93
+    name: myfirstchart
+    type: application
+    urls:
+    - https://github.com/DaryaKap/helm-charts-repo/releases/download/myfirstchart-0.1.0/myfirstchart-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-06-09T22:55:23.036537706Z"
